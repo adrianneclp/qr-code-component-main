@@ -2,6 +2,7 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -15,21 +16,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![screenshot](./images/screenshot.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
@@ -45,11 +38,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
 - [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -71,9 +61,7 @@ const proudOfThisFunc = () => {
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
@@ -101,3 +89,95 @@ Use this section to outline areas that you want to continue focusing on in futur
 This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
 **Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+
+
+# Mentor de frontend - solução de componente de código QR 
+
+ Esta é uma solução para o [QR Code Component Challenge no Frontend Mentor] (https://www.frontendmentor.io/challenges/qr-code-component-iux_sio_h). Os desafios do mentor do front -end ajudam a melhorar suas habilidades de codificação, construindo projetos realistas. 
+
+
+ ## Índice 
+
+ - [Visão geral] (#Visão geral) 
+   - [Screenshot] (#screenshot) 
+   - [links] (#links) 
+ - [meu processo] (#meu processo) 
+   - [construído com] (#construído-with) 
+   -[o que aprendi] (#o que eu apreciei) 
+   - [Desenvolvimento Continuado] (#Continuação de Desenvolvimento) 
+   - [Recursos úteis] (#UVELSOURCES) 
+ - [Autor] (#autor) 
+ - [Agradecimentos] (#Agradecimentos) 
+
+
+
+ ## Visão geral 
+
+ 
+
+ Links ### 
+
+ -Solução URL: [Adicione URL da solução aqui] (https://your-solution-url.com) 
+ -URL do site ao vivo: [Adicione URL do site ao vivo aqui] (https://your-live-site-url.com) 
+
+ ## meu processo 
+
+ ### construído com 
+
+ - marcação semântica HTML5 
+ - Propriedades personalizadas do CSS 
+ - Flexbox 
+ - grade CSS 
+ - Fluxo de trabalho para celular primeiro 
+
+ - [componentes com estilo] (https://styled-coploments.com/) - para estilos 
+
+ ** Nota: esses são apenas exemplos. Exclua esta nota e substitua a lista acima por suas próprias opções ** 
+
+ ### O que eu aprendi 
+
+ Use esta seção para recapitular alguns de seus principais aprendizados enquanto trabalha nesse projeto. Escrever isso e fornecer amostras de código de áreas que você deseja destacar é uma ótima maneira de reforçar seu próprio conhecimento. 
+
+ Para ver como você pode adicionar trechos de código, veja abaixo: 
+
+ `` `html 
+ <H1> Algum código html tenho orgulho de </h1> 
+ `` ` 
+ `` `CSS 
+ .proud-of-css { 
+   Cor: mamão; 
+ } 
+ `` ` 
+ `` `JS 
+ const pouefththisfunc = () => { 
+   console.log ('' ') 
+ } 
+ `` ` 
+
+ Se você quiser mais ajuda para escrever o Markdown, recomendamos verificar [o guia de marcação] (https://www.markdownguide.org/) para saber mais. 
+
+ ** Nota: Exclua esta nota e o conteúdo desta seção e substitua seus próprios aprendizados. ** 
+
+ ### Desenvolvimento contínuo 
+
+ Use esta seção para delinear as áreas nas quais você deseja continuar se concentrando em projetos futuros. Estes podem ser conceitos que você ainda não está completamente confortável ou técnicas que você achou úteis que deseja refinar e aperfeiçoar. 
+
+ ** Nota: Exclua esta nota e o conteúdo desta seção e substitua seus próprios planos para o desenvolvimento contínuo. ** 
+
+ ### Recursos úteis 
+
+ - [Exemplo de recurso 1] (https://www.example.com) - Isso me ajudou por XYZ Motivo. Eu realmente gostei desse padrão e o usarei daqui para frente. 
+ - [Exemplo de recurso 2] (https://www.example.com) - Este é um artigo incrível que me ajudou a finalmente a entender o XYZ. Eu recomendaria para quem ainda está aprendendo esse conceito. 
+
+ ** Nota: exclua esta nota e substitua a lista acima por recursos que o ajudaram durante o desafio. Isso pode ser útil para quem veja sua solução ou para si mesmo quando você olha para trás neste projeto no futuro. ** 
+
+ ## Autor 
+
+ - Site - [Adicione seu nome aqui] (https://www.your-site.com) 
+ - Frontend Mentor - [@yourusername] (https://www.frontendmentor.io/profile/yourusername) 
+ - Twitter - [@yourusername] (https://www.twitter.com/yourusername) 
+
+ ** NOTA: Exclua esta nota e adicione/remova/edite linhas acima com base nos links que você gostaria de compartilhar. ** 
+
+
+
