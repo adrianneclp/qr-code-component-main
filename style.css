@@ -1,7 +1,7 @@
 
 html{
     background-color: hsl(212, 45%, 89%);
-    max-width:1440px;
+   
     
 }
 .attribution { 
@@ -17,12 +17,13 @@ html{
 }
 
 .container{
-    width: 100vw;
-    height: 80vh;
+    width:100vw;
+    min-height:80vh;
     display:flex;
-    flex-direction:row;
-    justify-content: center;
-    align-items: center;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+
 }
 
 .imagem{
@@ -35,10 +36,10 @@ html{
 }
 .qrcode{
         background-color: hsl(0, 0%, 100%);
-        width: 240px;
+        width:240px;
         height:380px;
         border-radius: 15px;
-        text-align: center;
+        text-align:center;
        
 
   
